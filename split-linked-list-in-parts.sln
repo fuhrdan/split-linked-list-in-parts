@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "split-linked-list-in-parts", "split-linked-list-in-parts.csproj", "{389D0955-0E8B-4EC2-AFAA-F9E4D43E2B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389D0955-0E8B-4EC2-AFAA-F9E4D43E2B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389D0955-0E8B-4EC2-AFAA-F9E4D43E2B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389D0955-0E8B-4EC2-AFAA-F9E4D43E2B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389D0955-0E8B-4EC2-AFAA-F9E4D43E2B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5938F93B-9384-41EB-8191-B3C36A5D7AE0}
+	EndGlobalSection
+EndGlobal
